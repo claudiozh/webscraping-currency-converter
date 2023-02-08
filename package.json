@@ -1,0 +1,17 @@
+{
+  "name": "webscraping-currency-converter",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Project to convert currency from one currency to another",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "claudiozh <claudiorodrigozh@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^19.6.3",
+    "readline-sync": "^1.4.10"
+  }
+}
